@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+passlib[bcrypt]
+pyjwt
+pymongo
+email-validator
+python-dotenv
+requests
+openai
+itsdangerous
+slowapi
